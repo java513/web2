@@ -9,6 +9,7 @@ public class UserController {
 
     public String test(){
         System.out.println("UserController.test");
+        System.out.println("github------");
         return null;
     }
 }
